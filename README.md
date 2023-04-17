@@ -36,7 +36,10 @@ This Notebook contains:
 
 Data Analysis:
 
-This solution contains different classifiers: Logistic Regression, Random Forest and Neural network.
+    Logistic Regression
+    Random Forest
+    Neural network
+    
 
 
 
