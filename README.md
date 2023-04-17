@@ -6,16 +6,17 @@ Using Machine learning algorithm on the famous Titanic Disaster Dataset for Pred
 
 Data Information:
 
-  Survival: 0 = Did not survive, 1 = Survived
-  Pclass: Ticket class where 1 = First class, 2 = Second class, 3 = Third class. 
-  Sex: Male or female
-  Age: Age of Passengers
-  SibSp: Number of siblings or spouses aboard the titanic
-  Parch: Number of parents or children aboard the titanic
-  Ticket: Passenger ticket number
-  Fare: Passenger fare
-  Cabin: Cabin number
-  Embarked: Point of embarkation where C = Cherbourg, Q = Queenstown, S = Southampton
+    Survival: 0 = Did not survive, 1 = Survived
+    Pclass: Ticket class where 1 = First class, 2 = Second class, 3 = Third class.
+    Sex: Male or female
+    Age: Age of Passengers
+    SibSp: Number of siblings or spouses aboard the titanic
+    Parch: Number of parents or children aboard the titanic
+    Ticket: Passenger ticket number
+    Fare: Passenger fare
+    Cabin: Cabin number
+    Embarked: Point of embarkation where C = Cherbourg, Q = Queenstown, S = Southampton
+ 
 
 Dependencies:
 
