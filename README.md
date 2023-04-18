@@ -59,6 +59,7 @@ Neural Network
 
 
 - The second attempt, loss: 0.46, accuracy = 0.82
+
 ![optimization](https://user-images.githubusercontent.com/115420417/232641033-f6e2d815-e7a2-4996-a33b-24fce5696911.jpg)
 
 The neural network is the first of several models we used to predict the survival outcome of the Titanic tragedy. After cleaning up and scaling the data set, we used 13 input features to predict the outcome of passenger survival. We used two hidden layers that consisted of 26 and 13 neurons, with 1 neuron in the outcome layer for binary classification purpose. The ReLu function was used as our activation function for the two hidden layers, as the function is computationally more efficient than Tanh. The function also helps to address the vanishing gradient problem, which can lead to slower training and lower accuracy.
